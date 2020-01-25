@@ -1,2 +1,1 @@
-# competetiveProgammingArray
-Contains all the problem on array
+# Contains all the problems on array
